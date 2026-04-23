@@ -2,6 +2,13 @@
 
 タスク管理アプリ
 
+## ドキュメント
+
+- [機能仕様書](docs/spec.md)
+- [ユーザーストーリー](docs/user-stories.md)
+- [ER 図](docs/erd.md)
+- [Issue 計画](docs/issue.md)
+
 ## 技術スタック
 
 - **フレームワーク**: Next.js 16 (App Router) + React 19 + TypeScript
