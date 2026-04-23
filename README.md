@@ -7,6 +7,7 @@
 - [機能仕様書](docs/spec.md)
 - [ユーザーストーリー](docs/user-stories.md)
 - [ER 図](docs/erd.md)
+- [OpenAPI 仕様](docs/openapi.yaml)
 - [Issue 計画](docs/issue.md)
 
 ## 技術スタック
